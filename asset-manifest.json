@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolia/static/css/main.8fe55911.css",
-    "main.js": "/my-portfolia/static/js/main.55baeb0a.js",
+    "main.css": "/my-portfolia/static/css/main.433f007e.css",
+    "main.js": "/my-portfolia/static/js/main.f73e764a.js",
     "static/js/453.cc6ef297.chunk.js": "/my-portfolia/static/js/453.cc6ef297.chunk.js",
     "static/media/photo.jpeg": "/my-portfolia/static/media/photo.557e5167818a980dfe88.jpeg",
     "static/media/dkr.pdf": "/my-portfolia/static/media/dkr.42e9511b09b80ac79095.pdf",
@@ -10,12 +10,12 @@
     "static/media/slick.ttf": "/my-portfolia/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/my-portfolia/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my-portfolia/index.html",
-    "main.8fe55911.css.map": "/my-portfolia/static/css/main.8fe55911.css.map",
-    "main.55baeb0a.js.map": "/my-portfolia/static/js/main.55baeb0a.js.map",
+    "main.433f007e.css.map": "/my-portfolia/static/css/main.433f007e.css.map",
+    "main.f73e764a.js.map": "/my-portfolia/static/js/main.f73e764a.js.map",
     "453.cc6ef297.chunk.js.map": "/my-portfolia/static/js/453.cc6ef297.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fe55911.css",
-    "static/js/main.55baeb0a.js"
+    "static/css/main.433f007e.css",
+    "static/js/main.f73e764a.js"
   ]
 }
