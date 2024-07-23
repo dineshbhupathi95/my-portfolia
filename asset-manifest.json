@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolia/static/css/main.04d5725c.css",
-    "main.js": "/my-portfolia/static/js/main.5a925506.js",
+    "main.js": "/my-portfolia/static/js/main.0880b9ae.js",
     "static/js/453.cc6ef297.chunk.js": "/my-portfolia/static/js/453.cc6ef297.chunk.js",
     "static/media/photo.jpeg": "/my-portfolia/static/media/photo.557e5167818a980dfe88.jpeg",
     "static/media/dkr.pdf": "/my-portfolia/static/media/dkr.42e9511b09b80ac79095.pdf",
@@ -11,11 +11,11 @@
     "static/media/slick.woff": "/my-portfolia/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my-portfolia/index.html",
     "main.04d5725c.css.map": "/my-portfolia/static/css/main.04d5725c.css.map",
-    "main.5a925506.js.map": "/my-portfolia/static/js/main.5a925506.js.map",
+    "main.0880b9ae.js.map": "/my-portfolia/static/js/main.0880b9ae.js.map",
     "453.cc6ef297.chunk.js.map": "/my-portfolia/static/js/453.cc6ef297.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04d5725c.css",
-    "static/js/main.5a925506.js"
+    "static/js/main.0880b9ae.js"
   ]
 }
