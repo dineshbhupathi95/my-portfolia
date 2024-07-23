@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-portfolia/static/css/main.e4383ee9.css",
+    "main.js": "/my-portfolia/static/js/main.ea525851.js",
+    "static/js/453.cc6ef297.chunk.js": "/my-portfolia/static/js/453.cc6ef297.chunk.js",
+    "index.html": "/my-portfolia/index.html",
+    "main.e4383ee9.css.map": "/my-portfolia/static/css/main.e4383ee9.css.map",
+    "main.ea525851.js.map": "/my-portfolia/static/js/main.ea525851.js.map",
+    "453.cc6ef297.chunk.js.map": "/my-portfolia/static/js/453.cc6ef297.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4383ee9.css",
+    "static/js/main.ea525851.js"
+  ]
+}
